@@ -2,8 +2,6 @@
 
 This repository is a personal Obsidian vault for capturing work reflections, lessons, friction points, ideas, and open questions over time.
 
-It is intentionally small and simple to start. The goal is to build a body of notes that can later be reviewed for patterns, recurring themes, strategic insights, and opportunities for action.
-
 ## Purpose
 
 This vault is meant to help:
@@ -13,29 +11,7 @@ This vault is meant to help:
 - preserve ideas that may be worth revisiting later
 - record open questions that can guide future exploration
 - create a history that can be analyzed for trends over time
-
-## Structure
-
-- `logs/`: dated daily or weekly reflection notes
-- `templates/`: reusable note templates, including the daily log structure
-- `.obsidian/`: local Obsidian configuration for the vault
-
-## Note Format
-
-Most entries follow a simple structure:
-
-- `Learned`
-- `Friction`
-- `Ideas`
-- `Questions`
-
-This format is designed to make notes quick to write and easier to synthesize later.
-
-## What This Vault Is
-
-This vault is a personal repository for capturing work reflections, lessons, friction points, ideas, and open questions over time.
-
-It is meant to stay lightweight and easy to maintain. The goal is not to create perfect documentation. The goal is to build a body of notes that becomes more valuable over time as patterns, themes, and insights begin to emerge.
+- Identify recurring themes, strategic insights, and opportunities for action
 
 ## How To Use This Vault With AI Tools
 
@@ -75,6 +51,23 @@ Examples:
 
 The goal of the vault is not just to store notes. The goal is to build enough useful signal over time that AI tools can help turn those notes into insight.
 
+## Structure
+
+- `logs/`: dated daily or weekly reflection notes
+- `templates/`: reusable note templates, including the daily log structure
+- `.obsidian/`: local Obsidian configuration for the vault
+
+## Note Format
+
+Most entries follow a simple structure:
+
+- `Learned`
+- `Friction`
+- `Ideas`
+- `Questions`
+
+This format is designed to make notes quick to write and easier to synthesize later.
+
 ## How This May Evolve
 
 As the vault grows, it may become useful to:
@@ -85,6 +78,4 @@ As the vault grows, it may become useful to:
 - connect insights across teams, meetings, and initiatives
 - turn raw notes into actions, recommendations, or strategy
 
-## Guiding Principle
 
-Keep entries lightweight, honest, and useful. The goal is not perfect documentation. The goal is to create enough signal over time that meaningful insights can be pulled from it later.
